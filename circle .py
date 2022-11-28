@@ -49,13 +49,6 @@ print(obj_2.center(),
 
 
 
-
-
-
-
-
-
-
     
 
 
